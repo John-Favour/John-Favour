@@ -4,15 +4,15 @@ My name is Aibangbee Favour also known as Dandy
 I'm a software engineer and fullstack and mobile developer based in Nigeria who is passionate about everything related to software development and technology. When I'm not coding, you can find me playing chess, watching movies or reading developer blogs.
 
 # About Me
-Location: Port Harcourt, Nigeria
-Industry Experience: 4+ years
-Education: Studying for Bachelor of Science in Software Engineering
+- Location: Benin City, Nigeria
+- Industry Experience: 3+ years
+- Education:**Bachelor of Engineering (B.Eng.) in Naval Architecture & Marine Engineering**  
+University of Benin — *In Progress*
 
 # Projects
-
-- Location: Port Harcourt, Nigeria
-- Industry Experience: 4+ years
-- Education: Studying for Bachelor of Science in Software Engineering
+- 🌐 I have built web solutions for various clients, creating responsive and user-friendly websites that meet their specific needs.
+- 🌱 Additionally, I have worked on different ecommerce and management systems for schools, offices, businesses and large companies.
+- ✅ I have also worked on open source projects for the benefit of the society.
 
 # Skills
 ### 🛠 Languages & Technologies
