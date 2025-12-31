@@ -1,16 +1,18 @@
 ## Hi there 👋
+My name is Aibangbee Favour also known as Dandy
 
-<!--
-**John-Favour/John-Favour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer and fullstack and mobile developer based in Nigeria who is passionate about everything related to software development and technology. When I'm not coding, you can find me playing chess, watching movies or reading developer blogs.
 
-Here are some ideas to get you started:
+# About Me
+Location: Port Harcourt, Nigeria
+Industry Experience: 4+ years
+Education: Studying for Bachelor of Science in Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects
+
+- Location: Port Harcourt, Nigeria
+- Industry Experience: 4+ years
+- Education: Studying for Bachelor of Science in Software Engineering
+
+# Skills
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
