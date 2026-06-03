@@ -12,12 +12,26 @@ Fullstack Developer · Backend Engineer · MERN Stack · Node.js · React · RES
 University of Benin — *In Progress*
 
 # Projects
-<h3>School Management PortalDashboard </h3>   with session auth & student/staff management, React · Node.js · MongoDB
-<h3> Dannic Inspo </h3>  BoardFullstack inspiration board with cloud media storageReact · Node.js · Express
-Hospital Inventory SystemRBAC stock management with real-time low-stock alertsReact · Node.js · PostgreSQL
-SendStack Email APIMulti-tenant email API with PostgreSQL Row-Level Security & provider abstractionGo · PostgreSQL · REST API
-Givitec CBT PlatformProduction SaaS exam platform with user management & real-time resultsReact · Node.js · 
-MongoDBHospital Inventory SystemRBAC stock management with real-time low-stock alertsReact · Node.js · PostgreSQL
+📝 Givitec CBT — SaaS Exam Platform
+
+A live, multi-tenant Computer-Based Testing SaaS platform built for schools and institutions. Schools register, manage students, create and schedule exams, and get real-time graded results — all on one platform. Features a live exam engine with countdown timer, auto-submit, instant scoring, and a Paystack subscription model for school plans.
+React.js Node.js Express.js MongoDB JWT Paystack Context API REST API
+
+🏥 Hospital Inventory System
+
+A role-based stock management system built for a hospital to replace manual spreadsheet tracking. Admins, Managers, and Staff each have scoped access. Tracks stock levels in real time, triggers automatic low-stock alerts, logs every stock movement with user and timestamp, and provides a clean dashboard with search, filter, and category management.
+React.js Node.js Express.js PostgreSQL RBAC JWT REST API
+
+💡 Dannic Inspo — Inspiration Board App
+
+A fullstack Pinterest-style inspiration board where users save and organize images, quotes, and links into boards. Built with performance in mind images use lazy loading and are stored in cloud media storage (not the server), keeping load times fast even on slow connections. Includes a public feed, board creation, content pinning, and user interactions.
+React.js Node.js Express.js MongoDB Cloudinary JWT Lazy Loading REST API
+
+🏫 School Management Portal
+
+A comprehensive school administration system that digitizes student enrollment, staff management, class scheduling, attendance tracking, and academic records. Features role-based dashboards for Admins, Teachers, and Parents, term-based report card generation, and secure session-based authentication,chosen over JWT for this stateful, institution-facing use case.
+React.js Node.js Express.js MongoDB Session Auth RBAC REST API
+
 
 
 # Skills
