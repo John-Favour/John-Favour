@@ -2,6 +2,8 @@
 My name is Aibangbee Favour also known as Dandy
 
 I'm a software engineer and fullstack and mobile developer based in Nigeria who is passionate about everything related to software development and technology. When I'm not coding, you can find me playing chess, watching movies or reading developer blogs.
+Fullstack Developer · Backend Engineer · MERN Stack · Node.js · React · REST API · Open for hire
+
 
 # About Me
 - Location: Benin City, Nigeria
@@ -10,9 +12,13 @@ I'm a software engineer and fullstack and mobile developer based in Nigeria who 
 University of Benin — *In Progress*
 
 # Projects
-- 🌐 I have built web solutions for various clients, creating responsive and user-friendly websites that meet their specific needs.
-- 🌱 Additionally, I have worked on different ecommerce and management systems for schools, offices, businesses and large companies.
-- ✅ I have also worked on open source projects for the benefit of the society.
+School Management PortalDashboard with session auth & student/staff management, React · Node.js · MongoDB
+annic Inspo BoardFullstack inspiration board with cloud media storageReact · Node.js · Express
+Hospital Inventory SystemRBAC stock management with real-time low-stock alertsReact · Node.js · PostgreSQL
+SendStack Email APIMulti-tenant email API with PostgreSQL Row-Level Security & provider abstractionGo · PostgreSQL · REST API
+Givitec CBT PlatformProduction SaaS exam platform with user management & real-time resultsReact · Node.js · 
+MongoDBHospital Inventory SystemRBAC stock management with real-time low-stock alertsReact · Node.js · PostgreSQL
+
 
 # Skills
 ### 🛠 Languages & Technologies
