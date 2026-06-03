@@ -12,8 +12,8 @@ Fullstack Developer · Backend Engineer · MERN Stack · Node.js · React · RES
 University of Benin — *In Progress*
 
 # Projects
-School Management PortalDashboard with session auth & student/staff management, React · Node.js · MongoDB
-annic Inspo BoardFullstack inspiration board with cloud media storageReact · Node.js · Express
+<h3>School Management PortalDashboard </h3>   with session auth & student/staff management, React · Node.js · MongoDB
+<h3> Dannic Inspo </h3>  BoardFullstack inspiration board with cloud media storageReact · Node.js · Express
 Hospital Inventory SystemRBAC stock management with real-time low-stock alertsReact · Node.js · PostgreSQL
 SendStack Email APIMulti-tenant email API with PostgreSQL Row-Level Security & provider abstractionGo · PostgreSQL · REST API
 Givitec CBT PlatformProduction SaaS exam platform with user management & real-time resultsReact · Node.js · 
